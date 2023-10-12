@@ -23,9 +23,9 @@ import random # esp8266 can ONLY get rand bits!!!!
 
 
 HTTP_HEADERS = {'Content-Type': 'application/json'} 
-THINGSPEAK_WRITE_API_KEY = 'KDYE4XJQZAPCCOXR'
-ssid = 'bluebird27'
-password = 'pggsk33!?'
+THINGSPEAK_WRITE_API_KEY = 'KDYE4XJQZAPCXXXX'
+ssid = 'bluebirdXX'
+password = 'pggsk33XX'
 
 
 # Configure Pico W as Station
